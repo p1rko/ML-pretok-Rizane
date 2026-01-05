@@ -1,0 +1,19 @@
+LINKI:
+Isolation Forest:
+- https://www.youtube.com/watch?v=s0Y5PaVnAWU
+- https://www.youtube.com/watch?v=kN--TRv1UDY
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
+
+Cross Correlation: 
+- https://www.geeksforgeeks.org/data-science/cross-correlation/
+- https://www.geeksforgeeks.org/machine-learning/cross-correlation-analysis-in-python/
+
+Mogoče koristno:
+- https://www.aptech.com/blog/introduction-to-granger-causality/
+- https://www.geeksforgeeks.org/machine-learning/understanding-feature-importance-and-visualization-of-tree-models/
+- https://www.geeksforgeeks.org/machine-learning/how-to-generate-feature-importance-plots-from-scikit-learn/
+
+SHAP:
+- https://pypi.org/project/shap/
+- https://shap.readthedocs.io/en/latest/
+
